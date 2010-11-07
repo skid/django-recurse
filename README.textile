@@ -1,0 +1,5 @@
+h2. A recursive template tag for Django 1.0 
+
+This is an old project, it has not been tested on newer Django versions.
+
+Visit http://jordanovski.com/a-recursive-django-template-tag for the blog post.
